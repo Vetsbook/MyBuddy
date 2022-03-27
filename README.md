@@ -1,20 +1,7 @@
-# LadyBuddy- A Complete women safety app with Emergency SOS Service and Hidden camera detection
+# MyBuddy- A Complete safety app with Emergency SOS Service and Hidden camera detection
 
 
-<img src="https://user-images.githubusercontent.com/57634381/131633790-5c6a360e-738b-4a15-81d9-d0e7c8205794.png" align="left"
-width="200" hspace="10" vspace="10">
-
-LadyBudyy addresses the most devastating problem of human civilization till date,by an innovative technology and simulation.The app manifests mainly four features which are Emergency SOS service, Hidden camera detector manually or by the Electromagntic field detection simulation developed by us, Women's struggle and empowerment news to get empowered, Siren alarm.
-
-LadyBuddy is available on the Google Play Store.
-
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.teamDroiders.ladybuddy">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-       </a>  
-       </p>
+MyBudyy addresses the most devastating problem of human civilization till date,by an innovative technology and simulation.The app manifests mainly four features which are Emergency SOS service, Hidden camera detector manually or by the Electromagntic field detection simulation developed by us, Women's struggle and empowerment news to get empowered, Siren alarm.
 
 
        
@@ -112,9 +99,5 @@ Android Components Used:
 |:-:|:-:|
 | ![Third](https://user-images.githubusercontent.com/57634381/132382911-36f99188-3ae2-4fe7-b735-6b39ee3fe363.jpeg) | ![Fourth](https://user-images.githubusercontent.com/57634381/132383019-508dc1dd-39bf-4c79-9bb6-6725f18d9864.jpeg) |
 
-## Authors
 
-- [@Moheeeetgupta](https://github.com/Moheeeetgupta)
-- [@sakshi-123-eng](https://github.com/sakshi-123-eng)
-- [@shivi7519](https://github.com/shivi7519)
 
